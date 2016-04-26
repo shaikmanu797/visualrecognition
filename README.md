@@ -1,15 +1,15 @@
-Assignment-7 by:-
-
-Mansoor Baba Shaik
-Siddharth Hathi
-
 URL for Web Application:-
+
 http://recog.mybluemix.net/
 
 Web Application Architecture:-
+
 Runtime: Node.js
+
 Service: Watson Developer Cloud - Visual Recognition
+
 Memory used for an instance: 512MB
+
 Modules installed in the web application are as following:
 1.	cfenv – cloud foundry environment.
 2.	routes – To route the app.js to the specified web page (mainly used it to load index page in our web application on request to root ‘/’)
